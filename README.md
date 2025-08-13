@@ -86,4 +86,14 @@ Streamlit App → [🔗 Link to App]
 
 Power BI Dashboard → [🔗 Link to Dashboard]
 
+# Folder Structure
+Retail_Sales_Analysis/
+│
+├── data/                # Raw and cleaned datasets
+├── sql/                 # SQL scripts for data cleaning & EDA
+├── excel/               # Pivot tables & KPI reports
+├── notebooks/           # Python Jupyter notebooks
+├── models/              # Trained ML models
+├── streamlit_app/       # Streamlit application code
+└── README.md            # Project documentation
 
