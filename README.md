@@ -97,13 +97,13 @@ Retail_Sales_Analysis/
 ├── streamlit_app/       # Streamlit application code
 └── README.md            # Project documentation
 
-# 📌 Resume Bullet Points
-Led end-to-end retail sales analytics project integrating SQL, Excel, Python, Streamlit, and Power BI to deliver business insights and predictions.
+# Resume Bullet Points (Fresher Data Analyst)
+Led end-to-end retail sales analytics project using SQL, Excel, Python, Streamlit, and Power BI to deliver actionable business insights.
 
-Developed ML regression and classification models achieving R² = 0.87 and 85% accuracy for forecasting and customer prediction.
+Executed SQL-based data cleaning and EDA, reducing processing time by 30% and ensuring high-quality datasets.
 
-Created interactive dashboards in Power BI and deployed prediction tools via Streamlit for stakeholder use.
+Built ML regression and classification models achieving R² = 0.87 and 85% accuracy for sales forecasting and customer behavior prediction.
 
-Implemented SQL-based data cleaning and EDA, reducing data processing time by 30%.
+Developed interactive Power BI dashboards and Streamlit prediction app for real-time insights and stakeholder decision-making.
 
 
