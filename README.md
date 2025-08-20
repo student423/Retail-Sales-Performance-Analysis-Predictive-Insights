@@ -47,28 +47,28 @@ The project delivers significant business value by providing a clear understandi
 
 Customer Segmentation: The K-Means model successfully classified customers into three distinct, actionable segments based on their RFM scores:
 
-Cluster 1 (Champions): Identified as the most valuable segment with the lowest Recency (12.9 days) and the highest Frequency (25.4 orders) and
+#Cluster 1 (Champions): Identified as the most valuable segment with the lowest Recency (12.9 days) and the highest Frequency (25.4 orders) and
 Monetary value (£19,967). This group represents the top-tier of customers.
 
-Cluster 0 (Loyal & Engaged): A highly active group with low Recency (24.9 days), moderate Frequency (2.9 orders), and a solid average Monetary value (£896).
+#Cluster 0 (Loyal & Engaged): A highly active group with low Recency (24.9 days), moderate Frequency (2.9 orders), and a solid average Monetary value (£896).
 
-Cluster 2 (At-Risk): Classified as customers who have not made a recent purchase (Recency of 98.3 days) but have a purchasing history, making them prime candidates for re-engagement campaigns.
+#Cluster 2 (At-Risk): Classified as customers who have not made a recent purchase (Recency of 98.3 days) but have a purchasing history, making them prime candidates for re-engagement campaigns.
 
-Product Insights: Identified best-selling products crucial for inventory management and promotional strategies.
+#Product Insights: Identified best-selling products crucial for inventory management and promotional strategies.
 
-Actionable Recommendations: The insights generated from this project can be used to inform targeted marketing campaigns, 
+#Actionable Recommendations: The insights generated from this project can be used to inform targeted marketing campaigns, 
 loyalty programs, and re-engagement efforts, directly impacting customer lifetime value and revenue.
 
 Dashboard Snapshots
 Here are the visual representations of the dashboards created for this project.
 
-Excel Dashboard
+# Excel Dashboard
 (Insert image of your Excel dashboard here. Make sure to update the URL.)
 
-Power BI Dashboard
+# Power BI Dashboard
 (Insert image of your Power BI dashboard here. Make sure to update the URL.)
 
-Technical Skills & Tools
+# Technical Skills & Tools
 Databases: MySQL (Data Cleaning & Aggregation)
 
 Data Analysis & BI: Microsoft Excel (KPIs & Initial Reporting), Power BI (Interactive Dashboarding)
@@ -77,7 +77,7 @@ Programming: Python (Pandas for data manipulation, Scikit-learn for machine lear
 
 Development Environment: Google Colab
 
-Repository Structure
+# Repository Structure
 sql/: Contains the SQL scripts used for data cleaning and initial analysis.
 
 notebooks/: Contains the Python notebook used for RFM analysis and K-Means clustering.
@@ -86,7 +86,7 @@ dashboards/: Contains the Power BI file (.pbix) and dashboard images.
 
 data/: Includes the original dataset.
 
-Contact
+# Contact
 Feel free to connect with me if you have any questions or feedback about this project.
 
 
