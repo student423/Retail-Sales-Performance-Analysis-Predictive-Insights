@@ -1,109 +1,96 @@
-# Retail Sales Performance Analysis & Predictive Insights
-# 📌 Project Overview
-This project delivers a comprehensive retail sales analysis and prediction system by integrating multiple tools and technologies. 
-The goal was to transform raw sales data into actionable business insights, forecast future trends, and create interactive decision-making platforms for stakeholders.
-It covers data cleaning, exploratory data analysis (EDA), machine learning, and dashboard creation in a seamless workflow.
+# Online Retail Customer Analytics & Segmentation
 
-# 🎯 Objectives
-Data Preparation: Clean and preprocess sales data for accuracy.
+# Project Overview
+This project is a comprehensive, end-to-end data analysis portfolio piece that demonstrates a full data science workflow, 
+from raw data processing to predictive modeling and business insights. The core objective is to analyze a transactional dataset from an online retailer and perform RFM (Recency, 
+Frequency, Monetary) analysis to segment the customer base. This project addresses the critical business problem of identifying and 
+understanding different customer groups to optimize marketing strategies and improve customer retention.
 
-Business Insights: Identify top-performing products, high-revenue regions, and seasonal sales patterns.
+# End-to-End Workflow
+This project showcases a versatile skill set by leveraging multiple tools for different stages of the data pipeline.
 
-Predictive Modeling: Build machine learning models to forecast sales and classify customers.
+# SQL: Data Cleaning & Initial Business Insights
 
-Interactive Visualization: Develop dashboards and applications to enable real-time business decisions.
+Utilized SQL to meticulously clean and transform a raw, semi-structured dataset of over 500,000 records. 
+Addressed common data quality issues such as missing values, data type inconsistencies, and duplicate line items through strategic aggregation.
 
-# Tools & Technologies
-SQL (MySQL / PostgreSQL) → Data loading, cleaning, preprocessing, and initial EDA.
+Extracted foundational business insights by identifying key performance indicators (KPIs), 
+including total revenue, customer count, top-selling products, and revenue by country.
 
-Excel → Pivot tables, quick KPI reporting, and summary analysis.
+# Excel: Business-Level Reporting & KPIs
 
-Python → EDA, feature engineering, ML model building, and data visualization.
+Connected Excel directly to the cleaned SQL database to demonstrate proficiency in creating rapid, business-focused reports.
 
-Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
+Developed dynamic PivotTables and charts to visualize key metrics like monthly sales trends and top-performing customers, providing quick, actionable insights.
 
-Streamlit → Deploy machine learning models as interactive web applications.
+# Python: Advanced Analytics & Predictive Modeling
 
-Power BI → Executive-level dashboards for performance monitoring and insights.
+Used Python to perform in-depth analysis beyond the capabilities of traditional business intelligence tools.
 
-# 📂 Workflow
-Phase 1 - SQL
+Conducted product-level analysis to uncover top-selling items and product co-purchase patterns.
 
-Load raw CSV data into SQL database.
+Engineered RFM features (Recency, Frequency, Monetary) as the basis for a robust customer segmentation model.
 
-Clean data (handle missing values, remove duplicates, convert data types).
+Applied the K-Means clustering algorithm to segment the customer base, a key machine learning technique for unsupervised learning. 
+The analysis identified distinct, behavior-based customer groups.
 
-Conduct initial EDA to explore sales trends, product categories, and customer segments.
+# Power BI: Interactive Dashboarding & Storytelling
 
-Phase 2 - Excel
+Integrated data from both the SQL database and the Python model to create a comprehensive and interactive dashboard.
 
-Connect Excel to SQL for live data access.
+Designed visualizations to represent key metrics, geographical sales, and the RFM customer segments.
 
-Generate pivot reports for category contribution, growth rate, and regional performance.
+Utilized DAX to create custom measures for dynamic and granular data exploration. The final dashboard serves as a powerful business intelligence tool for stakeholders.
 
-Phase 3 - Python (Machine Learning)
+# Key Insights & Business Outcomes
+The project delivers significant business value by providing a clear understanding of the customer base.
 
-Load cleaned SQL data into Python.
+Customer Segmentation: The K-Means model successfully classified customers into three distinct, actionable segments based on their RFM scores:
 
-Perform advanced EDA and data visualization.
+Cluster 1 (Champions): Identified as the most valuable segment with the lowest Recency (12.9 days) and the highest Frequency (25.4 orders) and
+Monetary value (£19,967). This group represents the top-tier of customers.
 
-# Build:
+Cluster 0 (Loyal & Engaged): A highly active group with low Recency (24.9 days), moderate Frequency (2.9 orders), and a solid average Monetary value (£896).
 
-Regression models for sales forecasting.
+Cluster 2 (At-Risk): Classified as customers who have not made a recent purchase (Recency of 98.3 days) but have a purchasing history, making them prime candidates for re-engagement campaigns.
 
-Classification models for customer purchase prediction.
+Product Insights: Identified best-selling products crucial for inventory management and promotional strategies.
 
-Save trained models for deployment.
+Actionable Recommendations: The insights generated from this project can be used to inform targeted marketing campaigns, 
+loyalty programs, and re-engagement efforts, directly impacting customer lifetime value and revenue.
 
-Phase 4 - Streamlit
+Dashboard Snapshots
+Here are the visual representations of the dashboards created for this project.
 
-Develop an interactive app where users can enter parameters and get sales predictions.
+Excel Dashboard
+(Insert image of your Excel dashboard here. Make sure to update the URL.)
 
-Display EDA charts dynamically for better decision-making.
+Power BI Dashboard
+(Insert image of your Power BI dashboard here. Make sure to update the URL.)
 
-Phase 5 - Power BI
+Technical Skills & Tools
+Databases: MySQL (Data Cleaning & Aggregation)
 
-Connect SQL database directly to Power BI.
+Data Analysis & BI: Microsoft Excel (KPIs & Initial Reporting), Power BI (Interactive Dashboarding)
 
-Create dashboards with KPIs, filters, and interactive visuals for management review.
+Programming: Python (Pandas for data manipulation, Scikit-learn for machine learning)
 
-# 📊 Key Insights
-Top Product Line: XYZ Products generated 28% of total sales.
+Development Environment: Google Colab
 
-Seasonal Peak: November recorded the highest sales due to festive promotions.
+Repository Structure
+sql/: Contains the SQL scripts used for data cleaning and initial analysis.
 
-High-Value Region: North America contributed 35% of total revenue.
+notebooks/: Contains the Python notebook used for RFM analysis and K-Means clustering.
 
-Customer Loyalty: 42% of customers made repeat purchases.
+dashboards/: Contains the Power BI file (.pbix) and dashboard images.
 
-# 🤖 Machine Learning Results
-Regression Model → R² = 0.87, RMSE = 520
+data/: Includes the original dataset.
 
-Classification Model → Accuracy = 85%, Precision = 82%, Recall = 80%
+Contact
+Feel free to connect with me if you have any questions or feedback about this project.
 
-# 🚀 Deployment
-Streamlit App → [🔗 Link to App]
 
-Power BI Dashboard → [🔗 Link to Dashboard]
 
-# Folder Structure
-Retail_Sales_Analysis/
-│
-├── data/                # Raw and cleaned datasets
-├── sql/                 # SQL scripts for data cleaning & EDA
-├── excel/               # Pivot tables & KPI reports
-├── notebooks/           # Python Jupyter notebooks
-├── models/              # Trained ML models
-├── streamlit_app/       # Streamlit application code
-└── README.md            # Project documentation
 
-# Resume Bullet Points (Fresher Data Analyst)
-Led end-to-end retail sales analytics project using SQL, Excel, Python, Streamlit, and Power BI to deliver actionable business insights.
-
-Executed SQL-based data cleaning and EDA, reducing processing time by 30% and ensuring high-quality datasets.
-
-Built ML regression and classification models achieving R² = 0.87 and 85% accuracy for sales forecasting and customer behavior prediction.
-
-Developed interactive Power BI dashboards and Streamlit prediction app for real-time insights and stakeholder decision-making.
 
 
