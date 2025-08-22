@@ -64,15 +64,14 @@ Identified best-selling products crucial for inventory management and promotiona
 The insights generated from this project can be used to inform targeted marketing campaigns, 
 loyalty programs, and re-engagement efforts, directly impacting customer lifetime value and revenue.
 
-# Dashboard Snapshots
-Here are the visual representations of the dashboards created for this project.
-
 # Excel Dashboard
 (Insert image of your Excel dashboard here. Make sure to update the URL.)
 
-# Power BI Dashboard
+# Power BI Dashboard-1
 (Insert image of your Power BI dashboard here. Make sure to update the URL.)
 
+ # Power BI Dashboard-2
+ 
 # Technical Skills & Tools
 Databases: MySQL (Data Cleaning & Aggregation)
 
