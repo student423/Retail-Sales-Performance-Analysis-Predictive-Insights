@@ -65,7 +65,7 @@ The insights generated from this project can be used to inform targeted marketin
 loyalty programs, and re-engagement efforts, directly impacting customer lifetime value and revenue.
 
 # Excel Dashboard
-(Insert image of your Excel dashboard here. Make sure to update the URL.)
+(https://github.com/student423/Retail-Sales-Performance-Analysis-Predictive-Insights/blob/main/retail%20sale%20excel%20dashboard.jpg)
 
 # Power BI Dashboard-1
 (Insert image of your Power BI dashboard here. Make sure to update the URL.)
