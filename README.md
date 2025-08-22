@@ -11,7 +11,7 @@ This project showcases a versatile skill set by leveraging multiple tools for di
 
 # SQL: Data Cleaning & Initial Business Insights
 
-Utilized SQL to meticulously clean and transform a raw, semi-structured dataset of over 500,000 records. 
+Utilized SQL to meticulously clean and transform a raw, semi-structured dataset of over 100,000+ records. 
 Addressed common data quality issues such as missing values, data type inconsistencies, and duplicate line items through strategic aggregation.
 
 Extracted foundational business insights by identifying key performance indicators (KPIs), 
