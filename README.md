@@ -71,7 +71,7 @@ https://github.com/student423/Retail-Sales-Performance-Analysis-Predictive-Insig
 https://github.com/student423/Retail-Sales-Performance-Analysis-Predictive-Insights/blob/main/retail%20sales%20dashboard-1.jpg
 
  # Power BI Dashboard-2
- (https://github.com/student423/Retail-Sales-Performance-Analysis-Predictive-Insights/blob/main/retail%20sales%20dashboard-2.jpg)
+ https://github.com/student423/Retail-Sales-Performance-Analysis-Predictive-Insights/blob/main/retail%20sales%20dashboard-2.jpg
  
 # Technical Skills & Tools
 Databases: MySQL (Data Cleaning & Aggregation)
