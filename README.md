@@ -68,7 +68,7 @@ loyalty programs, and re-engagement efforts, directly impacting customer lifetim
 (https://github.com/student423/Retail-Sales-Performance-Analysis-Predictive-Insights/blob/main/retail%20sale%20excel%20dashboard.jpg)
 
 # Power BI Dashboard-1
-(Insert image of your Power BI dashboard here. Make sure to update the URL.)
+(https://github.com/student423/Retail-Sales-Performance-Analysis-Predictive-Insights/blob/main/retail%20sales%20dashboard-1.jpg.)
 
  # Power BI Dashboard-2
  
